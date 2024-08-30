@@ -6,7 +6,7 @@ pkg install python3
 
 pkg install git
 
-git clone git://github.com/axlkiller/sam.git
+git clone https://github.com/MS-HACKER-ZONE/sam.git
 
 cd sam
 
